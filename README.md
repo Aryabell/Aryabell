@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryabell</h1>
 <h3 align="center">Web Developer, Software Engineer, AI Engineer, Mobile App Developer Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arya&label=Profile%20views&color=0e75b6&style=flat" alt="arya" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aryabellb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tes" height="30" width="40" /></a>
